@@ -1,0 +1,26 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="/about.html">ABOUT</a>
+  <li><a href="/experience.html/">EXPERIENCE</a>
+  <li><a href="/reflection.html/">REFLECTION</a>
+  <li><a href="/contact.html/">CONTACT</a>           
+</ul>
