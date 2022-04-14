@@ -1,3 +1,6 @@
+{
+
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -12,7 +15,8 @@ li {
 li a {
   display: block;
   padding: 8px;
-  background-color: #dddddd;
+  
+  background-color: #006666;
 }
 </style>
 </head>
