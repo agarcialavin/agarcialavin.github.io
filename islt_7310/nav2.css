@@ -15,3 +15,8 @@
     text-decoration: none;
     color: #ffffff;
 }
+.nav ul li ul {
+    display: block:
+    position: absolute;
+    background-color: #fff;
+}
