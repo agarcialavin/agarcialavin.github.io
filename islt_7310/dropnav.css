@@ -18,12 +18,12 @@ nav a:hover {
 }
 
 nav ul li a{
-    display: block;
-    font-family: arial; 
+    display: inline-block;
+    font-family: calibri; 
     font-weight: bold;
     color: #FCFCFC;
-    font-size: 16px;
-    padding: 0px 20px 20px 15px;
+    font-size: 14px;
+    padding-right: 50px;
     text-decoration: none;
 }
 nav ul li ul{
